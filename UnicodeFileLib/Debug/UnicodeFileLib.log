@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/1/15 星期五 21:20:52。
+     1>项目“D:\GitProjects\UnicodeFileLib\UnicodeFileLib\UnicodeFileLib.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\UnicodeFileLib.pch" /Fo"Debug\\" /Fd"Debug\UnicodeFileLib.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\UnicodeFileLib.pch" /Fo"Debug\\" /Fd"Debug\UnicodeFileLib.pdb" /Gd /TP /analyze- /errorReport:prompt UnicodeFile.cpp
+         UnicodeFile.cpp
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"D:\GitProjects\UnicodeFileLib\Debug\UnicodeFileLib.lib" /NOLOGO Debug\stdafx.obj
+         Debug\UnicodeFile.obj
+         UnicodeFileLib.vcxproj -> D:\GitProjects\UnicodeFileLib\Debug\UnicodeFileLib.lib
+     1>已完成生成项目“D:\GitProjects\UnicodeFileLib\UnicodeFileLib\UnicodeFileLib.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.32
